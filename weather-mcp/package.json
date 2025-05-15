@@ -1,0 +1,25 @@
+{
+  "name": "weather-mcp-node",
+  "version": "1.0.0",
+  "description": "基于Node.js的中国天气查询MCP服务",
+  "main": "weather.js",
+  "scripts": {
+    "start": "node weather.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:weather": "echo '{\"name\":\"get_china_weather\",\"parameters\":{\"city\":\"北京\"}}' | node weather.js"
+  },
+  "keywords": [
+    "mcp",
+    "weather",
+    "claude",
+    "china"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.2",
+    "moment": "^2.30.1",
+    "zod": "^3.22.4"
+  },
+  "type": "module"
+} 
