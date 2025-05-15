@@ -26,6 +26,8 @@ MCP 的核心是一套简单但强大的通信协议：
 
 ## 创建中国天气查询 MCP 服务教程
 
+Git 地址 ： https://github.com/lovelyqun/MCP/tree/main/weather-mcp
+
 下面我们将一步一步创建一个中国天气查询 MCP 服务。
 
 ### 第一步：环境准备
