@@ -1,0 +1,24 @@
+{
+  "name": "doctor-mcp",
+  "version": "1.0.0",
+  "description": "Doctor MCP - 医生助手工具",
+  "main": "doctor.js",
+  "type": "module",
+  "scripts": {
+    "start": "node doctor.js",
+    "test": "echo \"Doctor MCP 启动中...\" && node doctor.js"
+  },
+  "keywords": [
+    "mcp",
+    "doctor",
+    "medical",
+    "diagnosis",
+    "claude"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.2",
+    "zod": "^3.22.4"
+  }
+} 

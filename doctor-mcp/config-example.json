@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "assistant-doctor": {
+      "command": "npm",
+      "args": [
+        "start",
+        "--prefix",
+        "/Users/lu/Projects/MCP/doctor-mcp"
+      ],
+      "env": {}
+    }
+  }
+} 
