@@ -1,6 +1,7 @@
 # 让AI从话痨变成老中医：连续对话的实现秘密
 
-源码：https://github.com/x-ai/sequential-thinking
+git地址：https://github.com/lovelyqun/MCP.git
+
 当我想让AI像医生一样问诊时，发现它总是忘记前面说啥，或者问完一个问题就停不下来。
 
 传统AI交互模式：

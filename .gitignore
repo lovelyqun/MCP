@@ -1,2 +1,4 @@
 /.DS_Store
 node_modules
+doctor-mcp/node_modules
+doctor-mcp/medical_sessions
